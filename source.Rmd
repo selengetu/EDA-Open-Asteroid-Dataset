@@ -9,3 +9,10 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Loading the dataset
+
+```{r Loading dataset}
+df <- read.csv("Asteroid_Updated.csv")
+
+sprintf("Dataset has %d rows and %d columns", nrow(df), ncol(df))
+```
