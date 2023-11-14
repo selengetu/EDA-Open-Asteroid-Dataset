@@ -1,6 +1,6 @@
 ---
 title: "source"
-author: "Eugene Ayonga, Selegne Tulga, Shakleen Ishfar, KT Wirth"
+author: "Eugene Ayonga, Selenge Tulga, Shakleen Ishfar, KT Wirth"
 date: "2023-11-14"
 output: pdf_document
 ---
